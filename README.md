@@ -15,3 +15,15 @@
 * `git checkout` - Este comando é utilizado para alternar entre diferentes branches no seu repositório.
 * `git merge` - Este comando é usado para mesclar mudanças de um branch para outro. Ele combina as alterações feitas em um branch com outro branch ativo.
 
+| Comando Principal    | Comando Auxiliar | Propriedade   |
+|---------|-------|----------|
+| git    | add    | .|
+| git   | add    | path(caminho do arquivo) |
+| git   | commit    | -m "mensagem" |
+| git   | checkout    | branch |
+| git   | merge   | branch |
+| git   | pull    |  |
+| git   | pull    | branch |
+| git   | push    | Belo Horizonte |
+| git   | push    | branch |
+| git   | status    |  |
