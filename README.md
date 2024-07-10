@@ -24,6 +24,6 @@
 | git   | merge   | branch |
 | git   | pull    |  |
 | git   | pull    | branch |
-| git   | push    | Belo Horizonte |
+| git   | push    |  |
 | git   | push    | branch |
 | git   | status    |  |
